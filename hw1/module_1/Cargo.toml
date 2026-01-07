@@ -1,0 +1,22 @@
+[package]
+name = "module_1"
+version = "0.1.0"
+authors = [ 
+    "Suhail Rehman <suhail@uchicago.edu>",
+    "emmamrosenthal <emmamrosenthal@gmail.com>",
+    "Raul Castro Fernandez <raulcf@uchicago.edu>",
+    "Aaron Elmore <aelmore@cs.uchicago.edu>",
+]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "solution"
+path = "src/solution.rs"
+
+[[bin]]
+name = "main"
+path = "src/main.rs"
+
+[dependencies]
