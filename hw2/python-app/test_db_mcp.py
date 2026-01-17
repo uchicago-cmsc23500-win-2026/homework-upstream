@@ -63,6 +63,7 @@ def server_proc() -> Generator[subprocess.Popen, None, None]:
         text=True,
         env=os.environ.copy(),
         bufsize=1,
+        cwd=os.path.dirname(__file__),
     )
     _rpc(proc, 1, "tools/list", {})
     yield proc
