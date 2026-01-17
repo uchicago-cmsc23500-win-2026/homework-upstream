@@ -1,0 +1,1469 @@
+{
+  "strategy": {
+    "category_id": 11,
+    "category_name": "Abstract Strategy",
+    "count": 10,
+    "games": [
+      {
+        "g_id": 58451,
+        "name": "Twin Tin Bots",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 27,
+            "name": "Racing"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 16,
+            "name": "Industry / Manufacturing"
+          }
+        ]
+      },
+      {
+        "g_id": 37486,
+        "name": "Stratego (Revised Edition)",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 49850,
+        "name": "Tetris Link",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 13,
+            "name": "Puzzle"
+          },
+          {
+            "c_id": 58,
+            "name": "Video Game Theme"
+          }
+        ]
+      },
+      {
+        "g_id": 3052,
+        "name": "Stratego: Star Wars",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 23,
+            "name": "Science Fiction"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 43955,
+        "name": "Connect 4 (Revised Edition)",
+        "categories": [
+          {
+            "c_id": 41,
+            "name": "Children's Game"
+          },
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          }
+        ]
+      },
+      {
+        "g_id": 10484,
+        "name": "Stratego: The Lord of the Rings",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 21,
+            "name": "Wargame"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 7191,
+        "name": "Creepy Freaks",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 52,
+            "name": "Miniatures"
+          },
+          {
+            "c_id": 2,
+            "name": "Collectible Components"
+          }
+        ]
+      },
+      {
+        "g_id": 39127,
+        "name": "Connect 4x4",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          }
+        ]
+      },
+      {
+        "g_id": 19781,
+        "name": "New Mastermind",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          }
+        ]
+      },
+      {
+        "g_id": 19183,
+        "name": "Stratego: The Chronicles of Narnia",
+        "categories": [
+          {
+            "c_id": 11,
+            "name": "Abstract Strategy"
+          },
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 59,
+            "name": "Novel-based"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      }
+    ]
+  },
+  "party": {
+    "category_id": 42,
+    "category_name": "Party Game",
+    "count": 38,
+    "games": [
+      {
+        "g_id": 40061,
+        "name": "Telestrations",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 14,
+            "name": "Real-time"
+          }
+        ]
+      },
+      {
+        "g_id": 4067,
+        "name": "Trivial Pursuit: 20th Anniversary Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 67948,
+        "name": "Telestrations: 12 Player Party Pack",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 42051,
+        "name": "Bunny Bunny Moose Moose",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          },
+          {
+            "c_id": 34,
+            "name": "Animals"
+          }
+        ]
+      },
+      {
+        "g_id": 3692,
+        "name": "Who Wants to Be a Millionaire",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          }
+        ]
+      },
+      {
+        "g_id": 12844,
+        "name": "Trivial Pursuit: 90's Time Capsule Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 6731,
+        "name": "Trivial Pursuit: The Lord of the Rings Movie Trilogy Collector's Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 59,
+            "name": "Novel-based"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 59797,
+        "name": "Tapple",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 14,
+            "name": "Real-time"
+          },
+          {
+            "c_id": 45,
+            "name": "Word Game"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 2522,
+        "name": "Trivial Pursuit: Genus 5",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 3611,
+        "name": "Fact or Crap",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 2737,
+        "name": "Trivial Pursuit: Millennium Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 46368,
+        "name": "Trivial Pursuit: Bet You Know It",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 4221,
+        "name": "Moods",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 13862,
+        "name": "Trivial Pursuit DVD: Star Wars Saga Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 23,
+            "name": "Science Fiction"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          }
+        ]
+      },
+      {
+        "g_id": 35129,
+        "name": "Jenga: Donkey Kong Collector's Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          },
+          {
+            "c_id": 58,
+            "name": "Video Game Theme"
+          }
+        ]
+      },
+      {
+        "g_id": 25630,
+        "name": "What's Yours Like?",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 22946,
+        "name": "Cranium Pop 5",
+        "categories": [
+          {
+            "c_id": 33,
+            "name": "Music"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 22426,
+        "name": "Trivial Pursuit: Totally 80s Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 35185,
+        "name": "Trivial Pursuit: 25th Anniversary Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 2557,
+        "name": "Jungle Jam",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          },
+          {
+            "c_id": 59,
+            "name": "Novel-based"
+          }
+        ]
+      },
+      {
+        "g_id": 25814,
+        "name": "Trivial Pursuit: Disney Edition",
+        "categories": [
+          {
+            "c_id": 41,
+            "name": "Children's Game"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          }
+        ]
+      },
+      {
+        "g_id": 44954,
+        "name": "Bubble Talk",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 30193,
+        "name": "Scene It? Movie Second Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 8200,
+        "name": "Jenga Xtreme",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          }
+        ]
+      },
+      {
+        "g_id": 18497,
+        "name": "Toru",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          }
+        ]
+      },
+      {
+        "g_id": 3276,
+        "name": "Survivor",
+        "categories": [
+          {
+            "c_id": 10,
+            "name": "Political"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 8,
+            "name": "Negotiation"
+          }
+        ]
+      },
+      {
+        "g_id": 18948,
+        "name": "Trivial Pursuit: DVD Pop Culture 2",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 26757,
+        "name": "Party & Co: Extreme",
+        "categories": [
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 2555,
+        "name": "Stare!",
+        "categories": [
+          {
+            "c_id": 55,
+            "name": "Memory"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 36649,
+        "name": "ego",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      },
+      {
+        "g_id": 26271,
+        "name": "Loaded Questions: Adult Version",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 76,
+            "name": "Mature / Adult"
+          }
+        ]
+      },
+      {
+        "g_id": 12690,
+        "name": "Trivial Pursuit: SNL DVD Edition",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 17918,
+        "name": "Trivial Pursuit: 1980s",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 19965,
+        "name": "Scene It? Friends",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 31079,
+        "name": "Trivial Pursuit Deluxe",
+        "categories": [
+          {
+            "c_id": 3,
+            "name": "Dice"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 36510,
+        "name": "Trivial Pursuit Digital Choice",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 39846,
+        "name": "Trivial Pursuit: Team Edition",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          }
+        ]
+      },
+      {
+        "g_id": 25445,
+        "name": "Pictionary: 15th Anniversary",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          }
+        ]
+      }
+    ]
+  },
+  "card": {
+    "category_id": 20,
+    "category_name": "Card Game",
+    "count": 33,
+    "games": [
+      {
+        "g_id": 78530,
+        "name": "Through the Ages: A New Story of Civilization",
+        "categories": [
+          {
+            "c_id": 17,
+            "name": "Civilization"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 37454,
+        "name": "Monopoly Deal Card Game",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 72729,
+        "name": "San Juan (second edition)",
+        "categories": [
+          {
+            "c_id": 6,
+            "name": "City Building"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 59394,
+        "name": "Pax Porfiriana",
+        "categories": [
+          {
+            "c_id": 10,
+            "name": "Political"
+          },
+          {
+            "c_id": 21,
+            "name": "Wargame"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 78,
+            "name": "Post-Napoleonic"
+          },
+          {
+            "c_id": 70,
+            "name": "Civil War"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 2521,
+        "name": "UNO Attack!",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 41184,
+        "name": "Sneaks & Snitches",
+        "categories": [
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 73,
+            "name": "Spies/Secret Agents"
+          }
+        ]
+      },
+      {
+        "g_id": 53009,
+        "name": "Flash Duel: Second Edition",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 66206,
+        "name": "Five Cucumbers",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 74468,
+        "name": "Neanderthal",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 44,
+            "name": "Prehistoric"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 59797,
+        "name": "Tapple",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 14,
+            "name": "Real-time"
+          },
+          {
+            "c_id": 45,
+            "name": "Word Game"
+          },
+          {
+            "c_id": 65,
+            "name": "Electronic"
+          }
+        ]
+      },
+      {
+        "g_id": 3655,
+        "name": "Man Bites Dog",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 45,
+            "name": "Word Game"
+          }
+        ]
+      },
+      {
+        "g_id": 60447,
+        "name": "Codex: Card-Time Strategy  Deluxe Set",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          },
+          {
+            "c_id": 58,
+            "name": "Video Game Theme"
+          }
+        ]
+      },
+      {
+        "g_id": 1148,
+        "name": "Boom-O",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 56,
+            "name": "Number"
+          }
+        ]
+      },
+      {
+        "g_id": 3611,
+        "name": "Fact or Crap",
+        "categories": [
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 61,
+            "name": "Trivia"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 6081,
+        "name": "Spite & Malice",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 7781,
+        "name": "Hector and Achilles",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 1,
+            "name": "Mythology"
+          }
+        ]
+      },
+      {
+        "g_id": 43973,
+        "name": "Flash Duel",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 31,
+            "name": "Fantasy"
+          }
+        ]
+      },
+      {
+        "g_id": 45089,
+        "name": "The Message",
+        "categories": [
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 37,
+            "name": "Deduction"
+          },
+          {
+            "c_id": 73,
+            "name": "Spies/Secret Agents"
+          }
+        ]
+      },
+      {
+        "g_id": 59702,
+        "name": "Monopoly Millionaire Deal Card Game",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 7,
+            "name": "Economic"
+          }
+        ]
+      },
+      {
+        "g_id": 40974,
+        "name": "Erosion",
+        "categories": [
+          {
+            "c_id": 54,
+            "name": "Educational"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 3678,
+        "name": "Swap!",
+        "categories": [
+          {
+            "c_id": 41,
+            "name": "Children's Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 40432,
+        "name": "Penny Arcade: The Card Game",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 4,
+            "name": "Fighting"
+          },
+          {
+            "c_id": 58,
+            "name": "Video Game Theme"
+          }
+        ]
+      },
+      {
+        "g_id": 2535,
+        "name": "Wanted!",
+        "categories": [
+          {
+            "c_id": 41,
+            "name": "Children's Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 40,
+            "name": "Action / Dexterity"
+          }
+        ]
+      },
+      {
+        "g_id": 65327,
+        "name": "Hobbit Tales from the Green Dragon Inn",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 44954,
+        "name": "Bubble Talk",
+        "categories": [
+          {
+            "c_id": 62,
+            "name": "Humor"
+          },
+          {
+            "c_id": 42,
+            "name": "Party Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 12578,
+        "name": "Ligretto 2",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 14,
+            "name": "Real-time"
+          }
+        ]
+      },
+      {
+        "g_id": 43842,
+        "name": "Yahtzee Hands Down Card Game",
+        "categories": [
+          {
+            "c_id": 3,
+            "name": "Dice"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 1087,
+        "name": "Star Wars Episode I: Customizable Card Game",
+        "categories": [
+          {
+            "c_id": 23,
+            "name": "Science Fiction"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 22,
+            "name": "Movies / TV / Radio theme"
+          }
+        ]
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game",
+        "categories": [
+          {
+            "c_id": 29,
+            "name": "Bluffing"
+          },
+          {
+            "c_id": 21,
+            "name": "Wargame"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 67,
+            "name": "Modern Warfare"
+          },
+          {
+            "c_id": 26,
+            "name": "Nautical"
+          }
+        ]
+      },
+      {
+        "g_id": 31393,
+        "name": "Take the Train",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          },
+          {
+            "c_id": 24,
+            "name": "Trains"
+          }
+        ]
+      },
+      {
+        "g_id": 14478,
+        "name": "The Game of Life: Card Game",
+        "categories": [
+          {
+            "c_id": 41,
+            "name": "Children's Game"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 13770,
+        "name": "Backpacker",
+        "categories": [
+          {
+            "c_id": 32,
+            "name": "Travel"
+          },
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      },
+      {
+        "g_id": 33862,
+        "name": "Level Up",
+        "categories": [
+          {
+            "c_id": 20,
+            "name": "Card Game"
+          }
+        ]
+      }
+    ]
+  }
+}

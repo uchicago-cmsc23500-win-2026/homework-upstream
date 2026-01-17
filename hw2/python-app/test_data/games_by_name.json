@@ -1,0 +1,266 @@
+{
+  "game": {
+    "count": 26,
+    "games": [
+      {
+        "g_id": 37454,
+        "name": "Monopoly Deal Card Game"
+      },
+      {
+        "g_id": 722,
+        "name": "Buffy the Vampire Slayer: The Game"
+      },
+      {
+        "g_id": 11481,
+        "name": "Atmosfear: The DVD Board Game"
+      },
+      {
+        "g_id": 43571,
+        "name": "The Logo Board Game"
+      },
+      {
+        "g_id": 4583,
+        "name": "The Worst-Case Scenario Survival Game"
+      },
+      {
+        "g_id": 2992,
+        "name": "The Game of Life: A Jedi's Path"
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game"
+      },
+      {
+        "g_id": 59702,
+        "name": "Monopoly Millionaire Deal Card Game"
+      },
+      {
+        "g_id": 13225,
+        "name": "Harry Potter and the Sorcerer's Stone   Mystery at Hogwarts Game"
+      },
+      {
+        "g_id": 22142,
+        "name": "Dragonology: The Game"
+      },
+      {
+        "g_id": 2672,
+        "name": "The Simpsons Trivia Game"
+      },
+      {
+        "g_id": 34529,
+        "name": "Halo Interactive Strategy Game"
+      },
+      {
+        "g_id": 40432,
+        "name": "Penny Arcade: The Card Game"
+      },
+      {
+        "g_id": 43842,
+        "name": "Yahtzee Hands Down Card Game"
+      },
+      {
+        "g_id": 1087,
+        "name": "Star Wars Episode I: Customizable Card Game"
+      },
+      {
+        "g_id": 55434,
+        "name": "The Big Bang Theory: Fact or Fiction Game"
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game"
+      },
+      {
+        "g_id": 14478,
+        "name": "The Game of Life: Card Game"
+      },
+      {
+        "g_id": 27377,
+        "name": "Monopoly: Tropical Tycoon DVD Game"
+      },
+      {
+        "g_id": 2317,
+        "name": "Jurassic Park III Island Survival Game"
+      },
+      {
+        "g_id": 25758,
+        "name": "Pirateology: The Game"
+      },
+      {
+        "g_id": 37806,
+        "name": "Battleship: The Tactical Combat Game"
+      },
+      {
+        "g_id": 37610,
+        "name": "Curling Table Game"
+      },
+      {
+        "g_id": 4250,
+        "name": "Friends Trivia Game"
+      },
+      {
+        "g_id": 13973,
+        "name": "Disney Magic Kingdom Game"
+      },
+      {
+        "g_id": 25759,
+        "name": "Wizardology: The Game"
+      }
+    ]
+  },
+  "monopoly": {
+    "count": 21,
+    "games": [
+      {
+        "g_id": 37454,
+        "name": "Monopoly Deal Card Game"
+      },
+      {
+        "g_id": 38037,
+        "name": "Monopoly City"
+      },
+      {
+        "g_id": 7397,
+        "name": "Monopoly: The Lord of the Rings Trilogy Edition"
+      },
+      {
+        "g_id": 3060,
+        "name": "Monopoly: The Simpsons"
+      },
+      {
+        "g_id": 29573,
+        "name": "Monopoly: Electronic Banking"
+      },
+      {
+        "g_id": 4563,
+        "name": "Monopoly: Star Wars Episode 1"
+      },
+      {
+        "g_id": 17405,
+        "name": "Monopoly: Here and Now"
+      },
+      {
+        "g_id": 7952,
+        "name": "Monopoly: Disney"
+      },
+      {
+        "g_id": 59702,
+        "name": "Monopoly Millionaire Deal Card Game"
+      },
+      {
+        "g_id": 4981,
+        "name": "Monopoly: Millennium"
+      },
+      {
+        "g_id": 44408,
+        "name": "U-Build Monopoly"
+      },
+      {
+        "g_id": 37405,
+        "name": "Monopoly: Here and Now  The World Edition"
+      },
+      {
+        "g_id": 22083,
+        "name": "Monopoly: Nintendo"
+      },
+      {
+        "g_id": 17399,
+        "name": "Monopoly: 70th Anniversary Edition"
+      },
+      {
+        "g_id": 60072,
+        "name": "Monopoly Millionaire"
+      },
+      {
+        "g_id": 2623,
+        "name": "Monopoly: The .com Edition"
+      },
+      {
+        "g_id": 21779,
+        "name": "Monopoly: Spongebob Squarepants"
+      },
+      {
+        "g_id": 27377,
+        "name": "Monopoly: Tropical Tycoon DVD Game"
+      },
+      {
+        "g_id": 24121,
+        "name": "Monopoly: Euro"
+      },
+      {
+        "g_id": 17833,
+        "name": "Monopoly: 65th Anniversary 1935-2000"
+      },
+      {
+        "g_id": 44417,
+        "name": "Monopoly Revolution"
+      }
+    ]
+  },
+  "risk": {
+    "count": 7,
+    "games": [
+      {
+        "g_id": 34428,
+        "name": "Risk (Revised Edition)"
+      },
+      {
+        "g_id": 13860,
+        "name": "Risk: Star Wars  The Clone Wars Edition"
+      },
+      {
+        "g_id": 20738,
+        "name": "Risk: Star Wars Original Trilogy Edition"
+      },
+      {
+        "g_id": 25760,
+        "name": "Risk: Transformers - Cybertron Battle Edition"
+      },
+      {
+        "g_id": 37310,
+        "name": "Risk: Balance of Power"
+      },
+      {
+        "g_id": 37685,
+        "name": "Risk: Halo Wars Collector's Edition"
+      },
+      {
+        "g_id": 66113,
+        "name": "Risk Battlefield Rogue"
+      }
+    ]
+  },
+  "clue": {
+    "count": 7,
+    "games": [
+      {
+        "g_id": 34804,
+        "name": "Clue: Discover the Secrets"
+      },
+      {
+        "g_id": 35221,
+        "name": "Clue: Harry Potter Edition"
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game"
+      },
+      {
+        "g_id": 9050,
+        "name": "Clue Jr.: The Case of the Missing Cake"
+      },
+      {
+        "g_id": 1455,
+        "name": "Clue: Dungeons & Dragons"
+      },
+      {
+        "g_id": 37972,
+        "name": "Clue: Secrets & Spies"
+      },
+      {
+        "g_id": 4976,
+        "name": "Clue: The Haunted Mansion"
+      }
+    ]
+  }
+}

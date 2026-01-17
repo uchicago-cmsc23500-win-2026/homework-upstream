@@ -1,0 +1,448 @@
+{
+  "rob": {
+    "designer_id": 8,
+    "designer_name": " Rob Daviau",
+    "count": 22,
+    "games": [
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          },
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      },
+      {
+        "g_id": 2957,
+        "name": "Star Wars: Epic Duels",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 34428,
+        "name": "Risk (Revised Edition)",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 828,
+        "name": "Star Wars: The Queen's Gambit",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 1093,
+        "name": "Axis & Allies: Pacific",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 22732,
+        "name": "Heroscape Marvel: The Conflict Begins",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 722,
+        "name": "Buffy the Vampire Slayer: The Game",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 13860,
+        "name": "Risk: Star Wars  The Clone Wars Edition",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 66374,
+        "name": "SeaFall",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 20738,
+        "name": "Risk: Star Wars Original Trilogy Edition",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 34804,
+        "name": "Clue: Discover the Secrets",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 7397,
+        "name": "Monopoly: The Lord of the Rings Trilogy Edition",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 35221,
+        "name": "Clue: Harry Potter Edition",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 2992,
+        "name": "The Game of Life: A Jedi's Path",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 37310,
+        "name": "Risk: Balance of Power",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 37685,
+        "name": "Risk: Halo Wars Collector's Edition",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 2594,
+        "name": "In Pursuit",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 66113,
+        "name": "Risk Battlefield Rogue",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 14478,
+        "name": "The Game of Life: Card Game",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      },
+      {
+        "g_id": 27377,
+        "name": "Monopoly: Tropical Tycoon DVD Game",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          }
+        ]
+      }
+    ]
+  },
+  "david": {
+    "designer_id": 16,
+    "designer_name": " David Sirlin",
+    "count": 3,
+    "games": [
+      {
+        "g_id": 53009,
+        "name": "Flash Duel: Second Edition",
+        "designers": [
+          {
+            "des_id": 16,
+            "name": " David Sirlin"
+          }
+        ]
+      },
+      {
+        "g_id": 60447,
+        "name": "Codex: Card-Time Strategy  Deluxe Set",
+        "designers": [
+          {
+            "des_id": 16,
+            "name": " David Sirlin"
+          }
+        ]
+      },
+      {
+        "g_id": 43973,
+        "name": "Flash Duel",
+        "designers": [
+          {
+            "des_id": 16,
+            "name": " David Sirlin"
+          }
+        ]
+      }
+    ]
+  },
+  "matt": {
+    "designer_id": 9,
+    "designer_name": " Matt Leacock",
+    "count": 5,
+    "games": [
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "designers": [
+          {
+            "des_id": 8,
+            "name": " Rob Daviau"
+          },
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      },
+      {
+        "g_id": 81620,
+        "name": "Pandemic: Reign of Cthulhu",
+        "designers": [
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      },
+      {
+        "g_id": 83497,
+        "name": "Pandemic Iberia",
+        "designers": [
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      },
+      {
+        "g_id": 81559,
+        "name": "Knit Wit",
+        "designers": [
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      },
+      {
+        "g_id": 81960,
+        "name": "Chariot Race",
+        "designers": [
+          {
+            "des_id": 9,
+            "name": " Matt Leacock"
+          }
+        ]
+      }
+    ]
+  },
+  "maggi": {
+    "designer_id": 11,
+    "designer_name": " Marco Maggi",
+    "count": 7,
+    "games": [
+      {
+        "g_id": 13633,
+        "name": "Marvel Heroes",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 10,
+            "name": " Roberto Di Meglio"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 61862,
+        "name": "The Battle of Five Armies",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 10,
+            "name": " Roberto Di Meglio"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 42330,
+        "name": "War of the Ring Collector's Edition",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 10,
+            "name": " Roberto Di Meglio"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 7781,
+        "name": "Hector and Achilles",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 60912,
+        "name": "Venetia",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 65327,
+        "name": "Hobbit Tales from the Green Dragon Inn",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      },
+      {
+        "g_id": 86578,
+        "name": "Barcelona: The Rose of Fire",
+        "designers": [
+          {
+            "des_id": 11,
+            "name": " Marco Maggi"
+          },
+          {
+            "des_id": 12,
+            "name": " Francesco Nepitello"
+          }
+        ]
+      }
+    ]
+  }
+}

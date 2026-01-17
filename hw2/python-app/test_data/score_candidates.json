@@ -1,0 +1,806 @@
+[
+  {
+    "scenario": "pandemic_top5",
+    "seed_game": {
+      "g_id": 71065,
+      "name": "Pandemic Legacy: Season 1"
+    },
+    "category_ids": [
+      83,
+      50
+    ],
+    "designer_ids": [
+      8,
+      9
+    ],
+    "constraints": {
+      "min_votes": 0,
+      "limit_candidates": 50,
+      "limit_final": 5
+    },
+    "num_cat_candidates": 3,
+    "num_des_candidates": 26,
+    "num_total_candidates": 29,
+    "expected_final_count": 5,
+    "expected_final_g_ids": [
+      83497,
+      81620,
+      828,
+      51279,
+      66374
+    ],
+    "expected_games": [
+      {
+        "g_id": 83497,
+        "name": "Pandemic Iberia",
+        "avgscore": 8.23547,
+        "numvotes": 1635
+      },
+      {
+        "g_id": 81620,
+        "name": "Pandemic: Reign of Cthulhu",
+        "avgscore": 7.58982,
+        "numvotes": 2585
+      },
+      {
+        "g_id": 828,
+        "name": "Star Wars: The Queen's Gambit",
+        "avgscore": 7.5559,
+        "numvotes": 1874
+      },
+      {
+        "g_id": 51279,
+        "name": "Bios: Genesis",
+        "avgscore": 7.52578,
+        "numvotes": 252
+      },
+      {
+        "g_id": 66374,
+        "name": "SeaFall",
+        "avgscore": 7.13216,
+        "numvotes": 1252
+      }
+    ],
+    "all_candidates": [
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 83497,
+        "name": "Pandemic Iberia",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 51279,
+        "name": "Bios: Genesis",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "designer_overlap": 2
+      },
+      {
+        "g_id": 2957,
+        "name": "Star Wars: Epic Duels",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 81620,
+        "name": "Pandemic: Reign of Cthulhu",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 34428,
+        "name": "Risk (Revised Edition)",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 828,
+        "name": "Star Wars: The Queen's Gambit",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 1093,
+        "name": "Axis & Allies: Pacific",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 22732,
+        "name": "Heroscape Marvel: The Conflict Begins",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 83497,
+        "name": "Pandemic Iberia",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 722,
+        "name": "Buffy the Vampire Slayer: The Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 13860,
+        "name": "Risk: Star Wars  The Clone Wars Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 66374,
+        "name": "SeaFall",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 20738,
+        "name": "Risk: Star Wars Original Trilogy Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 34804,
+        "name": "Clue: Discover the Secrets",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 7397,
+        "name": "Monopoly: The Lord of the Rings Trilogy Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 81559,
+        "name": "Knit Wit",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 35221,
+        "name": "Clue: Harry Potter Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 2992,
+        "name": "The Game of Life: A Jedi's Path",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 81960,
+        "name": "Chariot Race",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 37310,
+        "name": "Risk: Balance of Power",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 37685,
+        "name": "Risk: Halo Wars Collector's Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 2594,
+        "name": "In Pursuit",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 66113,
+        "name": "Risk Battlefield Rogue",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 14478,
+        "name": "The Game of Life: Card Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 27377,
+        "name": "Monopoly: Tropical Tycoon DVD Game",
+        "designer_overlap": 1
+      }
+    ]
+  },
+  {
+    "scenario": "monopoly_top8",
+    "seed_game": {
+      "g_id": 37454,
+      "name": "Monopoly Deal Card Game"
+    },
+    "category_ids": [
+      20,
+      7
+    ],
+    "designer_ids": [],
+    "constraints": {
+      "min_votes": 0,
+      "limit_candidates": 50,
+      "limit_final": 8
+    },
+    "num_cat_candidates": 50,
+    "num_des_candidates": 0,
+    "num_total_candidates": 50,
+    "expected_final_count": 8,
+    "expected_final_g_ids": [
+      78530,
+      75625,
+      53336,
+      60447,
+      60415,
+      79397,
+      59394,
+      72729
+    ],
+    "expected_games": [
+      {
+        "g_id": 78530,
+        "name": "Through the Ages: A New Story of Civilization",
+        "avgscore": 8.74235,
+        "numvotes": 6888
+      },
+      {
+        "g_id": 75625,
+        "name": "Gloomhaven",
+        "avgscore": 9.13573,
+        "numvotes": 3503
+      },
+      {
+        "g_id": 53336,
+        "name": "Puerto Rico: Limited Anniversary Edition",
+        "avgscore": 8.51696,
+        "numvotes": 3369
+      },
+      {
+        "g_id": 60447,
+        "name": "Codex: Card-Time Strategy  Deluxe Set",
+        "avgscore": 8.47145,
+        "numvotes": 531
+      },
+      {
+        "g_id": 60415,
+        "name": "Triumph & Tragedy",
+        "avgscore": 8.38356,
+        "numvotes": 857
+      },
+      {
+        "g_id": 79397,
+        "name": "Mega Civilization",
+        "avgscore": 8.38678,
+        "numvotes": 550
+      },
+      {
+        "g_id": 59394,
+        "name": "Pax Porfiriana",
+        "avgscore": 7.70941,
+        "numvotes": 1944
+      },
+      {
+        "g_id": 72729,
+        "name": "San Juan (second edition)",
+        "avgscore": 7.66589,
+        "numvotes": 2462
+      }
+    ],
+    "all_candidates": [
+      {
+        "g_id": 78530,
+        "name": "Through the Ages: A New Story of Civilization",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 37454,
+        "name": "Monopoly Deal Card Game",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 72729,
+        "name": "San Juan (second edition)",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 59394,
+        "name": "Pax Porfiriana",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 74468,
+        "name": "Neanderthal",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 59702,
+        "name": "Monopoly Millionaire Deal Card Game",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 75625,
+        "name": "Gloomhaven",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 53336,
+        "name": "Puerto Rico: Limited Anniversary Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 12786,
+        "name": "The Scepter of Zavandor",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 65633,
+        "name": "Forge War",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 2521,
+        "name": "UNO Attack!",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 60415,
+        "name": "Triumph & Tragedy",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 41184,
+        "name": "Sneaks & Snitches",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 53009,
+        "name": "Flash Duel: Second Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 38037,
+        "name": "Monopoly City",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 66206,
+        "name": "Five Cucumbers",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 7397,
+        "name": "Monopoly: The Lord of the Rings Trilogy Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 59797,
+        "name": "Tapple",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 3655,
+        "name": "Man Bites Dog",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 79397,
+        "name": "Mega Civilization",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 60447,
+        "name": "Codex: Card-Time Strategy  Deluxe Set",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 3060,
+        "name": "Monopoly: The Simpsons",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 1148,
+        "name": "Boom-O",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 3611,
+        "name": "Fact or Crap",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 29573,
+        "name": "Monopoly: Electronic Banking",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 6081,
+        "name": "Spite & Malice",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 7781,
+        "name": "Hector and Achilles",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 4563,
+        "name": "Monopoly: Star Wars Episode 1",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 17405,
+        "name": "Monopoly: Here and Now",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 7952,
+        "name": "Monopoly: Disney",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 45089,
+        "name": "The Message",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 43973,
+        "name": "Flash Duel",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 4981,
+        "name": "Monopoly: Millennium",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 44408,
+        "name": "U-Build Monopoly",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 40974,
+        "name": "Erosion",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 37405,
+        "name": "Monopoly: Here and Now  The World Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 3678,
+        "name": "Swap!",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 22083,
+        "name": "Monopoly: Nintendo",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 40432,
+        "name": "Penny Arcade: The Card Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 2535,
+        "name": "Wanted!",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 65327,
+        "name": "Hobbit Tales from the Green Dragon Inn",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 17399,
+        "name": "Monopoly: 70th Anniversary Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 44954,
+        "name": "Bubble Talk",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 12578,
+        "name": "Ligretto 2",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 43842,
+        "name": "Yahtzee Hands Down Card Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 60072,
+        "name": "Monopoly Millionaire",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 2623,
+        "name": "Monopoly: The .com Edition",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 1087,
+        "name": "Star Wars Episode I: Customizable Card Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 31393,
+        "name": "Take the Train",
+        "cat_overlap": 1
+      }
+    ]
+  },
+  {
+    "scenario": "clue_top3",
+    "seed_game": {
+      "g_id": 34804,
+      "name": "Clue: Discover the Secrets"
+    },
+    "category_ids": [
+      55,
+      36,
+      37
+    ],
+    "designer_ids": [
+      8
+    ],
+    "constraints": {
+      "min_votes": 0,
+      "limit_candidates": 50,
+      "limit_final": 3
+    },
+    "num_cat_candidates": 20,
+    "num_des_candidates": 22,
+    "num_total_candidates": 42,
+    "expected_final_count": 3,
+    "expected_final_g_ids": [
+      71065,
+      828,
+      21399
+    ],
+    "expected_games": [
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "avgscore": 8.66878,
+        "numvotes": 17251
+      },
+      {
+        "g_id": 828,
+        "name": "Star Wars: The Queen's Gambit",
+        "avgscore": 7.5559,
+        "numvotes": 1874
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game",
+        "avgscore": 6.21859,
+        "numvotes": 320
+      }
+    ],
+    "all_candidates": [
+      {
+        "g_id": 34804,
+        "name": "Clue: Discover the Secrets",
+        "cat_overlap": 3
+      },
+      {
+        "g_id": 37486,
+        "name": "Stratego (Revised Edition)",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 35221,
+        "name": "Clue: Harry Potter Edition",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 3052,
+        "name": "Stratego: Star Wars",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 10484,
+        "name": "Stratego: The Lord of the Rings",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 9050,
+        "name": "Clue Jr.: The Case of the Missing Cake",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 1455,
+        "name": "Clue: Dungeons & Dragons",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 36949,
+        "name": "Guess Who? Extra",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 4976,
+        "name": "Clue: The Haunted Mansion",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 19781,
+        "name": "New Mastermind",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 19183,
+        "name": "Stratego: The Chronicles of Narnia",
+        "cat_overlap": 2
+      },
+      {
+        "g_id": 45089,
+        "name": "The Message",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 13225,
+        "name": "Harry Potter and the Sorcerer's Stone   Mystery at Hogwarts Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 6392,
+        "name": "Mission Command Land",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 37972,
+        "name": "Clue: Secrets & Spies",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 6258,
+        "name": "Electronic Battleship Advanced Mission",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 26757,
+        "name": "Party & Co: Extreme",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 2555,
+        "name": "Stare!",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 37806,
+        "name": "Battleship: The Tactical Combat Game",
+        "cat_overlap": 1
+      },
+      {
+        "g_id": 71065,
+        "name": "Pandemic Legacy: Season 1",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 2957,
+        "name": "Star Wars: Epic Duels",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 34428,
+        "name": "Risk (Revised Edition)",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 828,
+        "name": "Star Wars: The Queen's Gambit",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 1093,
+        "name": "Axis & Allies: Pacific",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 22732,
+        "name": "Heroscape Marvel: The Conflict Begins",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 722,
+        "name": "Buffy the Vampire Slayer: The Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 13860,
+        "name": "Risk: Star Wars  The Clone Wars Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 66374,
+        "name": "SeaFall",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 20738,
+        "name": "Risk: Star Wars Original Trilogy Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 34804,
+        "name": "Clue: Discover the Secrets",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 7397,
+        "name": "Monopoly: The Lord of the Rings Trilogy Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 35221,
+        "name": "Clue: Harry Potter Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 2992,
+        "name": "The Game of Life: A Jedi's Path",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 21399,
+        "name": "Clue DVD Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 37310,
+        "name": "Risk: Balance of Power",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 37685,
+        "name": "Risk: Halo Wars Collector's Edition",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 2594,
+        "name": "In Pursuit",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 66113,
+        "name": "Risk Battlefield Rogue",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 6852,
+        "name": "Battleship Card Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 14478,
+        "name": "The Game of Life: Card Game",
+        "designer_overlap": 1
+      },
+      {
+        "g_id": 27377,
+        "name": "Monopoly: Tropical Tycoon DVD Game",
+        "designer_overlap": 1
+      }
+    ]
+  }
+]
